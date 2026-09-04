@@ -1,0 +1,2 @@
+# Economic-and-Competitive-Impact-of-Hosting-the-Summer-Olympics
+This project examines the economic and competitive impact of hosting the Summer Olympics. This analysis looks at medals won by the host nation both before, during, and after hosting the olympics, as well as their overall economic strength and whether the cost of hosting the Olympics was worth the GDP growth and the total medals won. 
